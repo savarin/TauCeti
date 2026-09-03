@@ -40,7 +40,8 @@ Adapted from D. Cureton, `sphere-six-complex`,
   at `895c0a0`, github.com/deancureton/sphere-six-complex.
 * C. Carathéodory, *Über die gegenseitige Beziehung der Ränder bei der
   konformen Abbildung*, Math. Ann. **73** (1913).
-* Ch. Pommerenke, *Boundary Behaviour of Conformal Maps*, Ch. 2.
+* Ch. Pommerenke, *Boundary Behaviour of Conformal Maps*, Springer, 1992,
+  Ch. 2 (Continuity and Prime Ends).
 -/
 
 public section
